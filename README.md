@@ -6,7 +6,7 @@ Site simples para organização de tarefas.
 
 ## Aprendizado
 
-Foi utilizado a biblioteca chamada 'react-beautifull-dnd' para auxiliar na adição
+Foi utilizado a biblioteca chamada ['react-beautifull-dnd'](https://github.com/atlassian/react-beautiful-dnd) para auxiliar na adição
 do recurso de drag and drop.
 
 ## Projeto
