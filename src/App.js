@@ -140,7 +140,7 @@ function App() {
                 >
                   {(provided) => (
                     <ul
-                      className="characters"
+                      className="tarefas"
                       {...provided.droppableProps}
                       ref={provided.innerRef}
                     >
