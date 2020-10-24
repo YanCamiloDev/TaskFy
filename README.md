@@ -10,5 +10,5 @@ Foi utilizado a biblioteca [react-beautifull-dnd](https://github.com/atlassian/r
 do recurso de drag and drop.
 
 ## Projeto
-![](Taskfy.png)
+![](TaskfyImage.png)
 
