@@ -10,5 +10,5 @@ Foi utilizado a biblioteca chamada 'react-beautifull-dnd' para auxiliar na adiç
 do recurso de drag and drop.
 
 ## Projeto
-![](TaskFy.png)
+![](Taskfy.png)
 
